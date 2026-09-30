@@ -1,4 +1,3 @@
+* linguist-detectable=false
+*.odin linguist-detectable=true
 *.odin linguist-language=Odin
-web/odin.js linguist-vendored=true
-*.wasm binary
-   
